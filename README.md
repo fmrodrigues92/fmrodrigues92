@@ -90,11 +90,10 @@ Engenheiro de Software Sênior com foco em backend, arquiteturas distribuídas e
 ![LangChain](https://img.shields.io/badge/LangChain-black)
 ![n8n](https://img.shields.io/badge/n8n-automation-orange)
 
-* AI workflow orchestration
-* LLM-powered automation
-* Retrieval pipelines & prompt chaining
-* Multi-agent and execution control
-* Integration via n8n, Flowise, custom services
+* AI Engineering / LLM Systems
+* Production AI / Production-Ready AI Systems
+* AI Orchestration / Agent Orchestration
+* Agentic Workflows / AI Agents
 
 ---
 
@@ -142,7 +141,8 @@ Engenheiro de Software Sênior com foco em backend, arquiteturas distribuídas e
 `microservices` `distributed-systems` `event-driven` `kafka`
 `aws` `lambda` `sqs` `rds` `s3`
 `clean-architecture` `ddd`
-`ai-engineering` `llm` `automation` `langchain`
+`ai-engineering` `production-ai` `llm-systems` `ai-orchestration`
+`rag` `ai-evaluation` `ai-automation` `agentic-workflows`
 `scalable-systems` `api-design` `system-integration`
 
 ---
