@@ -156,4 +156,8 @@ Engenheiro de Software Sênior com foco em backend, arquiteturas distribuídas e
 
 ## 📍 Availability
 
-Open to remote opportunities (LATAM / US / EU) focused on backend, distributed systems, and AI platforms.
+Based in São Paulo, Brazil, and available for on-site or hybrid opportunities in the São Paulo region.
+
+For international roles, I am available for fully remote work across LATAM and global markets. I have experience working with foreign companies and distributed teams, including daily communication in English, and I am comfortable operating in cross-border environments with reliability, clarity, and delivery focus.
+
+From an engagement standpoint, I can work through a straightforward contractor structure, ensuring a smooth process for invoicing and international payments, without adding unnecessary operational complexity for the client.
