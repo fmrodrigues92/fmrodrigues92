@@ -60,10 +60,11 @@ Engenheiro de Software Sênior com foco em backend, arquiteturas distribuídas e
 
 ### 🗄️ Data & Storage
 
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-444444?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-444444?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-444444?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-444444?logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-444444?logo=microsoftsqlserver&logoColor=white)
 
 * Relational and NoSQL databases
 * Caching and queue systems
