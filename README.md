@@ -60,7 +60,7 @@ Engenheiro de Software Sênior com foco em backend, arquiteturas distribuídas e
 
 ### 🗄️ Data & Storage
 
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)
